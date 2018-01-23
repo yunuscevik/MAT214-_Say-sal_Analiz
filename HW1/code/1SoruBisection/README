@@ -1,0 +1,10 @@
+Yazmis oldugum bisection kodunu terminalden make ile derleye bilir.
+make clean ile *.o ve exe dosyalarini silebilirsiniz.
+Kodlarin icine gomulu "f" isminde bir fonksiyonda bisection methodunu uygulayacagimiz
+fonksiyonlar var. Yorum satirina alinmis olan bu fonksiyonlarin yan tarafindaki 
+"//" isaretlerini tek tek kaldirip programi calistirdiginiz taktirde yaklasik kokleri
+iterasyon sayisini ve teorik iterasyon sayisini gorebilirsiniz. Ayrica program 
+terminale cikti verdigi gibi results1.txt dosyasinada yazmaktadir.
+
+Not: Onceden derleyip kaydettigim veriler result.txt icindedir !!!
+
